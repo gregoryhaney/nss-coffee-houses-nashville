@@ -1,0 +1,25 @@
+
+.pageHeader {
+    text-align: center;
+    font-weight: bold;
+}
+
+.list {
+    border: 1px solid blue;
+    padding: 1em;
+    margin: 0.5em;
+    display: flex;
+    flex-wrap: wrap;  /* Let the rows wrap if there are too many */
+    justify-content: space-evenly; /* Evenly space the child elements */
+}
+
+.shop {
+    flex-basis: 16%;  /* Make each child element the same width */
+    border: 1px solid blue;
+    padding: 1em;
+    margin: 0.5em;
+    display: flex;
+    flex-wrap: wrap;  /* Let the rows wrap if there are too many */
+    justify-content: space-evenly; /* Evenly space the child elements */
+    text-align: center; /* Center align the text in the boxes */
+}
