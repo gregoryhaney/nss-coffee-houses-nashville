@@ -10,6 +10,11 @@
 - [Bugs](https://github.com/gregoryhaney/nss-coffee-houses-nashville/issues "Issues Page")
 
 
+## Screenshots
+
+![Screen Shot 2022-02-11 at 8 12 47 AM (2)](https://user-images.githubusercontent.com/10354411/153607028-49d363db-60a4-4641-a8d9-0d3dcd781d7e.png)
+
+
 
 ## Built With
 
